@@ -13,4 +13,4 @@
  *
  * No contienen lógica del negocio.
  */
-package com.casino.controller.juegos;
+package com.casino.presentation.controller.juegos;

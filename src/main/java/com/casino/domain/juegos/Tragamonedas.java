@@ -1,7 +1,7 @@
 package com.casino.domain.juegos;
 
 
-import com.casino.anotaciones.Proveedor;
+import com.casino.domain.anotaciones.Proveedor;
 
 @Proveedor(name = "tragamonedas")
 public class Tragamonedas implements Juego {

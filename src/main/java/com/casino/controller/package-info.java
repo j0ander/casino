@@ -13,4 +13,4 @@
  * - Lógica de negocio
  * - Acceso a datos
  */
-package com.casino.controller;
+package com.casino.presentation.controller;
